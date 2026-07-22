@@ -9,4 +9,4 @@ Open Visual Studio Code and add two new terminals.<br>
 Open new tab and then type ```http://localhost:8000/admin``` for the Filament login page.<br>
 
 # Demo video
-Video demo link: [https://drive.google.com/drive/my-drive?hl=id](https://drive.google.com/file/d/12dt2AYWZRrsShPGJHL8HAXS2F9wSolTO/view?usp=sharing)
+Video demo link: [https://drive.google.com/file/d/12dt2AYWZRrsShPGJHL8HAXS2F9wSolTO/view?usp=sharing](https://drive.google.com/file/d/12dt2AYWZRrsShPGJHL8HAXS2F9wSolTO/view?usp=sharing)
